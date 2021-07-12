@@ -1,0 +1,162 @@
+
+
+.column {
+    display: flex;
+    margin-left: 85px;
+}
+
+img.popular-img {
+    width: 500px;
+}
+
+img.nomal-img {
+    width: 225px;
+}
+
+
+a {
+    text-decoration: none;
+}
+
+.pouplar {
+    border: 1px solid gray;
+}
+
+.nomal-product {
+    border: 1px solid gray;
+}
+p{
+    margin-left:3px;
+}
+
+
+body {
+    background-color: #d6d6d6;
+}
+div#menu {
+   
+    background-color: #403d3d;
+  
+    display: flex;
+    margin-left: -25px;
+    height: 82px;
+    width: 1374px;
+    z-index: 2;
+
+}
+p#logo {
+    font-size: 55px;
+    color: papayawhip;
+    font-family: cursive;
+    position: relative;
+    top: -10px;
+    margin-left: 95px;
+}
+input#search {
+    position: relative;
+    top: -80px;
+    margin-left: 480px;
+    height: 30px;
+    width: 400px;
+    border-radius: 16px;
+}
+a#login {
+    position: relative;    
+    color: white;
+    margin-left: 55px;
+    font-size: 18px;
+    text-decoration: none;
+}
+a#login:hover{
+  color: gray;
+}
+a#registration {
+    position: relative;
+    top: 10px;
+    color: white;
+    font-size: 19px;
+    margin-left: 20px;  
+    text-decoration: none;
+}
+a#registration:hover{
+  color: gray;
+}
+a#cart {
+    position: relative;
+    top: 10px;
+    color: white;
+    font-size: 19px;
+    margin-left: 23px;
+    text-decoration: none;
+}
+a#cart:hover{
+  color: gray;
+}
+div#danhmuc {
+    background-color: #e06565;
+    margin-left: -8px;
+    
+    top: 82px;
+    width: 1357px;
+    height: 40px;
+    z-index: 2;
+}
+a#dt {
+    position: relative;
+    left: 175px;
+    font-size: 20px;
+     text-decoration: none;
+color: #fad0ff;
+}
+a#dt:hover{
+  color: gray;
+}
+
+a#tb {
+    position: relative;
+    left: 610px;
+    font-size: 20px;
+    text-decoration: none;
+    color: #fad0ff;
+}
+a#tb:hover{
+  color: gray;
+}
+a#pk {
+    position: relative;
+    left: 867px;
+    font-size: 20px;
+    text-decoration: none;
+    color: #fad0ff;
+}
+a#pk:hover{
+  color: gray;
+}
+a#lt {
+    position: relative;
+    left: 375px;
+    font-size: 20px;
+    text-decoration: none;
+    color: #fad0ff;
+}
+a#lt:hover{
+  color: gray;
+}
+i.material-icons {
+    position: relative;
+    top: 6px;
+}
+
+
+div#back {
+    position: relative;
+    top: 141px;
+    display: flex;
+    margin-left: 385px;
+}
+p#the2 {
+    margin-left: 320px;
+}
+
+
+

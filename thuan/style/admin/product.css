@@ -1,0 +1,10 @@
+.category {
+    float: left;
+    width: 30%;
+    height: 500px;
+    background: antiquewhite;
+}
+
+.Product {}
+
+.Product {background: aquamarine;height: 500px;width: 30%;float: left;}

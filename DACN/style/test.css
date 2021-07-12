@@ -1,0 +1,34 @@
+img {
+    width: 350px;
+}
+.view {
+	margin-bottom:10px;
+    width: 48%;
+    background: darkgray;
+    margin-left: 1%;
+}
+p#prodcutName {
+}
+
+p#prodcutName {position: relative;top: -250px;left: 400px;/* font-weight: 500; */}
+
+p#price {
+    position: relative;
+    top: -200px;
+    left: 400px;
+}
+p.introduce {
+    position: relative;
+    top: -70px;
+    color: yellow;
+}
+#View_prodcut {
+    display: flex;
+    flex-flow: wrap;
+}
+.label_ {
+    display: inline-block;
+    width: 100px;
+    color: blue;
+    margin-top: 10px;
+}

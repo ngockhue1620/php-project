@@ -1,0 +1,274 @@
+
+
+.column {
+    display: flex;
+    margin-left: 85px;
+}
+
+img.popular-img {
+    width: 225px;
+}
+
+img.nomal-img {
+    width: 225px;
+}
+
+
+a {
+    text-decoration: none;
+}
+
+.pouplar {
+    border: 1px solid gray;
+}
+
+.nomal-product {
+    border: 1px solid gray;
+}
+p{
+    margin-left:3px;
+}
+
+img.img-QC {
+    width: 90%;
+     margin-top:130px;
+    margin-left: 67px;
+}
+
+div#menu {
+   
+    background-color: #403d3d;
+   
+    display: flex;
+    margin-left: -25px;
+    height: 82px;
+    width: 1374px;
+    z-index: 2;
+
+}
+p#logo {
+    font-size: 55px;
+    color: papayawhip;
+    font-family: cursive;
+    position: relative;
+    top: -10px;
+    margin-left: 95px;
+}
+.search {
+    position: relative;
+    
+    margin-left: 480px;
+    height: 30px;
+    width: 400px;
+    border-radius: 16px;
+}
+a#login {
+    position: relative;
+    top: -80px;
+    color: white;
+    margin-left: 55px;
+    font-size: 18px;
+    text-decoration: none;
+}
+a#login:hover{
+  color: gray;
+}
+a#registration {
+    position: relative;
+    top: -80px;
+    color: white;
+    font-size: 19px;
+    margin-left: 20px;
+    text-decoration: none;
+}
+a#registration:hover{
+  color: gray;
+}
+a#cart {
+    position: relative;
+    top: -80px;
+    color: white;
+    font-size: 19px;
+    margin-left: 23px;
+    text-decoration: none;
+}
+a#cart:hover{
+  color: gray;
+}
+div#danhmuc {
+    background-color: #e06565;
+    margin-left: -8px;
+
+    top: 82px;
+    width: 1357px;
+    height: 40px;
+    z-index: 2;
+}
+a#dt {
+    position: relative;
+    left: 175px;
+    font-size: 20px;
+     text-decoration: none;
+color: #fad0ff;
+}
+a#dt:hover{
+  color: gray;
+}
+
+a#tb {
+    position: relative;
+    left: 610px;
+    font-size: 20px;
+    text-decoration: none;
+    color: #fad0ff;
+}
+a#tb:hover{
+  color: gray;
+}
+a#pk {
+    position: relative;
+    left: 867px;
+    font-size: 20px;
+    text-decoration: none;
+    color: #fad0ff;
+}
+a#pk:hover{
+  color: gray;
+}
+a#lt {
+    position: relative;
+    left: 375px;
+    font-size: 20px;
+    text-decoration: none;
+    color: #fad0ff;
+}
+a#lt:hover{
+  color: gray;
+}
+i.material-icons {
+    position: relative;
+    top: 6px;
+}
+.container-list {
+    margin-top: 61px;
+}
+.frames {
+    margin-left: 85px;
+    border: solid 1px gray;
+    height: 50px;
+    position: relative;
+    top: 61px;
+    width: 1183px;
+}
+a.highlights {
+    margin-left: 17px;
+    position: relative;
+    top: 10px;
+    font-size: 22px;
+    font-family: cursive;
+    color: purple;
+}
+a.list-phone {
+    margin-left: 13px;
+    position: relative;
+    top: 6px;
+}
+.frames2 {
+    border: solid 1px gray;
+    height: 47px;
+    width: 1183px;
+    margin-left: 85px;
+    position: relative;
+    top: 62px;
+}
+a.highlights2 {
+    margin-left: 27px;
+    position: relative;
+    top: 6px;
+    font-size: 23px;
+    font-family: cursive;
+    color: salmon;
+}
+a.list-lap {
+    margin-left: 45px;
+}
+.frames3 {
+    border: solid 1px gray;
+    height: 52px;
+    width: 1183px;
+    margin-left: 85px;
+    position: relative;
+    top: 62px;
+}
+
+a.highlights3 {
+    position: relative;
+    top: 10px;
+    margin-left: 16px;
+    font-size: 20px;
+    font-family: cursive;
+    color: black;
+}
+a.list-tablet {
+    margin-left: 10px;
+    position: relative;
+    top: 8px;
+}
+.frames4 {
+    border: solid 1px gray;
+    height: 51px;
+    width: 1185px;
+    margin-left: 85px;
+    position: relative;
+    top: 62px;
+}
+a.highlights4 {
+    margin-left: 26px;
+    position: relative;
+    top: 9px;
+    font-size: 23px;
+    font-family: cursive;
+    color: teal;
+}
+a.list-accessories {
+    margin-left: 31px;
+    position: relative;
+    top: 5px;
+}
+.container-list2 {
+    border: solid 1px gray;
+    width: 1185px;
+    margin-left: 85px;
+    position: relative;
+    top: 61px;
+    height: 366px;
+}
+.column2 {
+    display: flex;
+    margin-left: 85px;
+}
+.nomal-product2 {
+    position: relative;
+    left: 10;
+    left: -86px;
+    border: solid 1px gray;
+}
+img.nomal-img2 {
+    width: 235px;
+}
+div#adress {
+    /* border: solid 1px gray; */
+    position: relative;
+    top: 100px;
+    background: #eae8e8;
+    height: 48px;
+}
+
+p#information {
+    margin-left: 293px;
+    position: relative;
+    top: 16px;
+    font-size: 11px;
+}
+
+

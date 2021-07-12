@@ -1,0 +1,18 @@
+.display-mid{
+ display: flex;
+    width: 80%;
+    margin-left: 10%;
+}
+img{
+    width: 400px;
+}
+h2{
+    margin-left: 10%;
+}
+hr{
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.display-mid-left {
+    width: 50%;
+}

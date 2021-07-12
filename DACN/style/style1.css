@@ -1,0 +1,104 @@
+
+.header-top {
+    background: red;
+    height: 54px;
+}
+.header-top-iterm {
+    display: flex;
+    position: relative;
+    top: 13px;
+}
+input#timkiem {
+    width: 80%;
+    height: 25px;
+}
+form.right {
+    margin-left: 15px;
+}
+.top_form {
+    margin-left: 15%;
+    width: 50%;
+}
+
+.header-top-left-iterm {
+    margin-left: 5%;
+    display: flex;
+
+}
+
+.create_acout {background: darkseagreen;margin-left: 30%;margin-top: 5%;width: 500px;height: 200px;}
+
+
+form#create_acout_form {
+    margin-left: 70px;
+    position: relative;
+    top: 10px;
+    top: 25px;
+}
+
+.mid-content{
+    display: flex;
+    justify-content: center;
+    background-color: red;
+}
+.mid-content a{
+    color:white;
+}
+.mid-content a:hover{
+    color: yellow;
+}
+li{
+    margin: auto;
+    list-style-type: none;
+    color: white;
+}
+.menu{
+    margin-left: 10rem;
+    margin-top: 30px;
+}
+.width-carousel{
+    width: 10%;
+}
+.backgr-white{
+    background-color: white!important;}
+.text-red{
+    color: red;
+}
+.button-card{
+    background-color: red;
+    color: white;
+    border: 0.5px solid black;
+    border-radius: 5px;
+    width: 100px;
+    height: 30px;
+    margin-left: 6.5rem;
+}
+.button-card:hover {
+    background-color: darkred;
+}
+.cl-black{
+    background-color: black;
+}
+.menu a{
+    color: black;
+    text-decoration: none;
+}
+.change-width-body{
+    width: 80%;
+    margin-left: 10%;
+}
+footer{
+    text-align: center;
+    background-color: red;
+    color: white;
+}
+.card.text-red.backgr-white {
+    height: 350px;
+}
+.giohang{
+    color: black;
+    text-decoration: none;
+}
+.change-width-body2{
+    width: 100%;
+}

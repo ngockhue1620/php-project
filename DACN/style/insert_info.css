@@ -1,0 +1,113 @@
+.main_of_insert {
+    margin-top: 10px;
+    display: flex;
+}
+
+.add_category {
+    width: 20%;
+    margin-left: 25rem;
+}
+
+.label{
+    color: #363636;
+    display: block;
+    font-size: 1rem;
+    font-weight: 700;
+}
+.add_product{
+    margin-left: 110px;
+}
+#navbar{
+    position: absolute;
+    min-width: 290px;
+    left: -40px;
+    width: 340px;
+    height: 163%;
+    border-right: solid;
+    border-color: rgba(0, 22, 22, 0.4);
+    top:64px;
+}
+#navbar a{
+    display: block;
+    padding: 10px 30px;
+    color: #4d4e53;
+    text-decoration: none;
+    cursor: pointer;
+}
+#navbar li{
+    color: #4d4e53;
+    border-top: 1px solid;
+    border-bottom: 0.5px solid;
+    list-style: none;
+    position: relative;
+    width: 100%;
+}
+.card{
+    background-color: #fff;
+    box-shadow: 0 0.5em 1em -0.125em rgba(10,10,10,.1), 0 0 0 1px rgba(10,10,10,.02);
+    color: #4a4a4a;
+    max-width: 100%;
+    position: relative;
+}
+.card-header{
+    background-color: transparent;
+    align-items: stretch;
+    box-shadow: 0 0.125em 0.25em rgba(10,10,10,.1);
+    display: flex;
+}
+.title{
+    align-items: center;
+    display: flex;
+    color: #363636;
+    flex-grow: 1;
+    font-weight: 700;
+    padding: .75rem 1rem;
+}
+.card-content{
+    background-color: transparent;
+    padding: 1.5rem;
+    margin-right: 120px;
+}
+.field:not(:last-child){
+    margin-bottom: .75rem;
+}
+.label:not(:last-child){
+    margin-bottom: .5em;
+}
+.control{
+    box-sizing: border-box;
+    clear: both;
+    font-size: 1rem;
+    position: relative;
+    text-align: inherit;
+}
+.input{
+    box-shadow: inset 0 0.0625em 0.125em rgba(10,10,10,.05);
+    width: 120%;
+    background-color: #fff;
+    border-color: #dbdbdb;
+    color: #363636;
+}
+.card-dm{
+    padding: 1.5rem;
+    margin-right: 40px;
+}
+.button{
+    background-color: #fff;
+    border-color: #dbdbdb;
+    border-width: 1px;
+    color: #363636;
+    cursor: pointer;
+    justify-content: center;
+    padding-bottom: calc(.5em - 1px);
+    padding-left: 1em;
+    padding-right: 1em;
+    padding-top: calc(.5em - 1px);
+    text-align: center;
+    white-space: nowrap;
+}
+.button.is-link{
+    background-color: #3273dc;
+    border-color: transparent;
+    color: #fff;
+}
